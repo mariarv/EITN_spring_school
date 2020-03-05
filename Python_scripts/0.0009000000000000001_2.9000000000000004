@@ -1,0 +1,159 @@
+Warning: no DISPLAY environment variable.
+--No graphics will be displayed.
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+Additional mechanisms from files
+ mods/CaDynamics_E2.mod mods/Ca_HVA.mod mods/Ca_LVAst.mod mods/epsp.mod mods/Ih.mod mods/Im.mod mods/K_Pst.mod mods/K_Tst.mod mods/kv.mod mods/na.mod mods/Nap_Et2.mod mods/NaTa_t.mod mods/NaTs2_t.mod mods/ProbAMPA.mod mods/ProbAMPANMDA2_ratio.mod mods/ProbAMPANMDA_EMS.mod mods/ProbAMPANMDA.mod mods/ProbGABAAB_EMS.mod mods/ProbGABAA_EMS.mod mods/ProbGABAA.mod mods/ProbNMDA.mod mods/SK_E2.mod mods/SKv3_1.mod
+first instance of j
+first instance of itmp
+first instance of using_cvode_
+first instance of movie_frame_dur_
+first instance of realtime
+first instance of running_
+first instance of rtstart
+first instance of stdrun_quiet
+first instance of screen_update_invl
+first instance of tstop
+first instance of steps_per_ms
+first instance of nstep_steprun
+first instance of runStopAt
+first instance of runStopIn
+first instance of global_ra
+first instance of mapped_nrnmainmenu_
+first instance of v_init
+first instance of n_graph_lists
+first instance of i
+first instance of eventslow
+first instance of eventcount
+first instance of cnt
+first instance of inhomofun_template_index_
+Warning: no DISPLAY environment variable.
+--No graphics will be displayed.
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+Additional mechanisms from files
+ mods/CaDynamics_E2.mod mods/Ca_HVA.mod mods/Ca_LVAst.mod mods/epsp.mod mods/Ih.mod mods/Im.mod mods/K_Pst.mod mods/K_Tst.mod mods/kv.mod mods/na.mod mods/Nap_Et2.mod mods/NaTa_t.mod mods/NaTs2_t.mod mods/ProbAMPA.mod mods/ProbAMPANMDA2_ratio.mod mods/ProbAMPANMDA_EMS.mod mods/ProbAMPANMDA.mod mods/ProbGABAAB_EMS.mod mods/ProbGABAA_EMS.mod mods/ProbGABAA.mod mods/ProbNMDA.mod mods/SK_E2.mod mods/SKv3_1.mod
+first instance of j
+first instance of itmp
+first instance of using_cvode_
+first instance of movie_frame_dur_
+first instance of realtime
+first instance of running_
+first instance of rtstart
+first instance of stdrun_quiet
+first instance of screen_update_invl
+first instance of tstop
+first instance of steps_per_ms
+first instance of nstep_steprun
+first instance of runStopAt
+first instance of runStopIn
+first instance of global_ra
+first instance of mapped_nrnmainmenu_
+first instance of v_init
+first instance of n_graph_lists
+first instance of i
+first instance of eventslow
+first instance of eventcount
+first instance of cnt
+first instance of inhomofun_template_index_
+Warning: no DISPLAY environment variable.
+--No graphics will be displayed.
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+Additional mechanisms from files
+ mods/CaDynamics_E2.mod mods/Ca_HVA.mod mods/Ca_LVAst.mod mods/epsp.mod mods/Ih.mod mods/Im.mod mods/K_Pst.mod mods/K_Tst.mod mods/kv.mod mods/na.mod mods/Nap_Et2.mod mods/NaTa_t.mod mods/NaTs2_t.mod mods/ProbAMPA.mod mods/ProbAMPANMDA2_ratio.mod mods/ProbAMPANMDA_EMS.mod mods/ProbAMPANMDA.mod mods/ProbGABAAB_EMS.mod mods/ProbGABAA_EMS.mod mods/ProbGABAA.mod mods/ProbNMDA.mod mods/SK_E2.mod mods/SKv3_1.mod
+first instance of j
+first instance of itmp
+first instance of using_cvode_
+first instance of movie_frame_dur_
+first instance of realtime
+first instance of running_
+first instance of rtstart
+first instance of stdrun_quiet
+first instance of screen_update_invl
+first instance of tstop
+first instance of steps_per_ms
+first instance of nstep_steprun
+first instance of runStopAt
+first instance of runStopIn
+first instance of global_ra
+first instance of mapped_nrnmainmenu_
+first instance of v_init
+first instance of n_graph_lists
+first instance of i
+first instance of eventslow
+first instance of eventcount
+first instance of cnt
+first instance of inhomofun_template_index_
+Warning: no DISPLAY environment variable.
+--No graphics will be displayed.
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+Additional mechanisms from files
+ mods/CaDynamics_E2.mod mods/Ca_HVA.mod mods/Ca_LVAst.mod mods/epsp.mod mods/Ih.mod mods/Im.mod mods/K_Pst.mod mods/K_Tst.mod mods/kv.mod mods/na.mod mods/Nap_Et2.mod mods/NaTa_t.mod mods/NaTs2_t.mod mods/ProbAMPA.mod mods/ProbAMPANMDA2_ratio.mod mods/ProbAMPANMDA_EMS.mod mods/ProbAMPANMDA.mod mods/ProbGABAAB_EMS.mod mods/ProbGABAA_EMS.mod mods/ProbGABAA.mod mods/ProbNMDA.mod mods/SK_E2.mod mods/SKv3_1.mod
+first instance of j
+first instance of itmp
+first instance of using_cvode_
+first instance of movie_frame_dur_
+first instance of realtime
+first instance of running_
+first instance of rtstart
+first instance of stdrun_quiet
+first instance of screen_update_invl
+first instance of tstop
+first instance of steps_per_ms
+first instance of nstep_steprun
+first instance of runStopAt
+first instance of runStopIn
+first instance of global_ra
+first instance of mapped_nrnmainmenu_
+first instance of v_init
+first instance of n_graph_lists
+first instance of i
+first instance of eventslow
+first instance of eventcount
+first instance of cnt
+first instance of inhomofun_template_index_
+Traceback (most recent call last):
+  File "/usr/local/oge_spool/ielsc-47/job_scripts/8192507", line 88, in <module>
+    ROC.append(np.abs(v - ss_voltage).sum())
+ValueError: operands could not be broadcast together with shapes (3401,) (5001,) 
+Warning: no DISPLAY environment variable.
+--No graphics will be displayed.
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+Additional mechanisms from files
+ mods/CaDynamics_E2.mod mods/Ca_HVA.mod mods/Ca_LVAst.mod mods/epsp.mod mods/Ih.mod mods/Im.mod mods/K_Pst.mod mods/K_Tst.mod mods/kv.mod mods/na.mod mods/Nap_Et2.mod mods/NaTa_t.mod mods/NaTs2_t.mod mods/ProbAMPA.mod mods/ProbAMPANMDA2_ratio.mod mods/ProbAMPANMDA_EMS.mod mods/ProbAMPANMDA.mod mods/ProbGABAAB_EMS.mod mods/ProbGABAA_EMS.mod mods/ProbGABAA.mod mods/ProbNMDA.mod mods/SK_E2.mod mods/SKv3_1.mod
+first instance of j
+first instance of itmp
+first instance of using_cvode_
+first instance of movie_frame_dur_
+first instance of realtime
+first instance of running_
+first instance of rtstart
+first instance of stdrun_quiet
+first instance of screen_update_invl
+first instance of tstop
+first instance of steps_per_ms
+first instance of nstep_steprun
+first instance of runStopAt
+first instance of runStopIn
+first instance of global_ra
+first instance of mapped_nrnmainmenu_
+first instance of v_init
+first instance of n_graph_lists
+first instance of i
+first instance of eventslow
+first instance of eventcount
+first instance of cnt
+first instance of inhomofun_template_index_
